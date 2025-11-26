@@ -44,7 +44,7 @@ For iOS users, download the app directly from the App Store or follow specific i
 
 Once you have installed the **Aviator Predictor app**, you can start using its features immediately:
 
-1. Open the app and enter any required activation code if prompted.
+1. Open the app and enter any required activation code if prompted.12254321
 2. Select your preferred betting platform (e.g., 1Win, Betway, CasinoDays, 1XBET, Premier Bet, ...).
 3. Utilize the predictor features to analyze potential outcomes and optimize your betting strategies.
 
